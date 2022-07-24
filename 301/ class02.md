@@ -21,7 +21,14 @@
 
 2) What is the big difference between props and state?
 
+prop it used to pass a component and it updated outside the component, but state it existing inside the component and is updated inside it.
+
 3) When do we re-render our application?
 
+We can re-render our application when we change the state.
+When we want to update our application we should store the updated part inside a state, to re-render it.
+
 4) What are some examples of things that we could store in state?
-Bookmark and Review
+* Counter
+* Select box
+* Check box
