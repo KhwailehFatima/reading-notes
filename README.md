@@ -8,4 +8,8 @@
  ## Code 201 - Foundations of Software Development
 
 ## Code 301 - Intermediate Software Development
+
+### Things I want to know more about
+ ####  class01
+
 ## Code 401 - Advanced Software Development
