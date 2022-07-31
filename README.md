@@ -10,4 +10,16 @@
 ## Code 301 - Intermediate Software Development
 [class01](301/reading/class01.md)
 
+[class02](301/reading/class02.md)
+
+[class03](301/reading/class03.md)
+
+[class04](301/reading/class04.md)
+
+[class05](301/reading/class05.md)
+
+[class01](301/reading/class06.md)
+
+[class07](301/reading/class07.md)
+
 ## Code 401 - Advanced Software Development
