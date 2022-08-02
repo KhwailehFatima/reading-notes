@@ -22,4 +22,5 @@
 
 [class07](301/reading/class07.md)
 
+ [class08](301/reading/class08.md)
 ## Code 401 - Advanced Software Development
