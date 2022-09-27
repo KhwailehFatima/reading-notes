@@ -1,6 +1,6 @@
-# Reading 
+# Reading     
 
-* What's the difference between Stack and Queue?
+*What's the difference between Stack and Queue?
 
 In stack, we can insert and delete from the end of the stack only, with a concept of LIFO (Last In First Out).
 
