@@ -43,3 +43,5 @@
 
 [class09-thursday](401-Reading-Notes/401-classes/class09-thursday.md)
 
+[reactReducer](401-Reading-Notes/401-classes/reactReducer.md)
+ 
