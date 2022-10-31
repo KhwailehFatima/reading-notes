@@ -8,6 +8,7 @@
  ## Code 201 - Foundations of Software Development
 
 ## Code 301 - Intermediate Software Development
+ 
 [class01](301/reading/class01.md)
 
 [class02](301/reading/class02.md)
@@ -35,6 +36,7 @@
 [class013](301/reading/class013.md)
 
 [class014](301/reading/class014.md)
+ 
 
 ## Code 401 - Advanced Software Development
 [class01-sun](401-Reading-Notes/401-classes/class01-sun.md)
@@ -44,4 +46,8 @@
 [class09-thursday](401-Reading-Notes/401-classes/class09-thursday.md)
 
 [reactReducer](401-Reading-Notes/401-classes/reactReducer.md)
+ 
+[OSL model & socket.io](401-Reading-Notes/401-classes/socket-io.md)
+
+ 
  
