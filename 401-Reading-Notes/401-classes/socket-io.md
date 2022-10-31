@@ -19,6 +19,8 @@ Layer 6: Password (to) | Presentation Layer
 
 Layer 7: Anyone | Application Layer
 
+
+
 ## Socket.io
 
 Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
@@ -41,4 +43,5 @@ io.on('connection', client => {
 
 server.listen(3000);
 
-### Socket.IO is an event-driven library for real-time web applications. It enables real-time, bi-directional communication between web clients and servers. It consists of two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API.
+## Socket.io
+ is an event-driven library for real-time web applications. It enables real-time, bi-directional communication between web clients and servers. It consists of two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API.
