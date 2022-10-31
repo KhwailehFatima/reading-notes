@@ -9,13 +9,10 @@
 
 ## Code 301 - Intermediate Software Development
 <<<<<<< HEAD
-<<<<<<< HEAD
 
 ### Things I want to know more about
  ####  class01
 =======
-=======
->>>>>>> 099d7a178b031db13de6b314fe66cfbbf67bfc59
 [class01](301/reading/class01.md)
 
 [class02](301/reading/class02.md)
@@ -43,10 +40,7 @@
 [class013](301/reading/class013.md)
 
 [class014](301/reading/class014.md)
-<<<<<<< HEAD
->>>>>>> 099d7a178b031db13de6b314fe66cfbbf67bfc59
-=======
->>>>>>> 099d7a178b031db13de6b314fe66cfbbf67bfc59
+ 
 
 ## Code 401 - Advanced Software Development
 [class01-sun](401-Reading-Notes/401-classes/class01-sun.md)
@@ -56,4 +50,7 @@
 [class09-thursday](401-Reading-Notes/401-classes/class09-thursday.md)
 
 [reactReducer](401-Reading-Notes/401-classes/reactReducer.md)
+
+[OSL model & socket.io](401-Reading-Notes/401-classes/socket-io.md)
+
  
