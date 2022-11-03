@@ -48,6 +48,8 @@
 [reactReducer](401-Reading-Notes/401-classes/reactReducer.md)
  
 [OSL model & socket.io](401-Reading-Notes/401-classes/socket-io.md)
+ 
+[hash table](401-Reading-Notes/401-classes/HashTable.md)
 
  
  
