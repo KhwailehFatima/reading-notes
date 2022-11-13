@@ -8,11 +8,7 @@
  ## Code 201 - Foundations of Software Development
 
 ## Code 301 - Intermediate Software Development
-<<<<<<< HEAD
-
-### Things I want to know more about
- ####  class01
-=======
+ 
 [class01](301/reading/class01.md)
 
 [class02](301/reading/class02.md)
@@ -50,9 +46,13 @@
 [class09-thursday](401-Reading-Notes/401-classes/class09-thursday.md)
 
 [reactReducer](401-Reading-Notes/401-classes/reactReducer.md)
-
+ 
 [OSL model & socket.io](401-Reading-Notes/401-classes/socket-io.md)
 
+[Chakra UI](401-Reading-Notes/401-classes/Chakra-UI.md)
+
+ 
 [hash table](401-Reading-Notes/401-classes/HashTable.md)
 
+ 
  
