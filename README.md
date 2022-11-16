@@ -56,5 +56,7 @@
  
 [hash table](401-Reading-Notes/401-classes/HashTable.md)
 
+[Graphs](401-Reading-Notes/401-classes/Graphs.md)
+
  
  
