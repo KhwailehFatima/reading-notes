@@ -56,5 +56,9 @@
 
 [Graphs](401-Reading-Notes/401-classes/Graphs.md)
 
+[Redux]( 401-Reading-Notes/401-classes/Redux.md)
+
+
+
  
  
