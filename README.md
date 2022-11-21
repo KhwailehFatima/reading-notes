@@ -58,6 +58,8 @@
 
 [Redux]( 401-Reading-Notes/401-classes/Redux.md)
 
+[Redux-Adv](401-Reading-Notes/401-classes/redux-adv.md)
+
 
 
  
